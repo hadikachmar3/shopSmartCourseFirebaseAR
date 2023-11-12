@@ -235,7 +235,7 @@ class _ProfileScreenState extends State<ProfileScreen>
                           fct: () async {
                             await FirebaseAuth.instance.signOut();
                             if (!mounted) return;
-                            await Navigator.pushNamed(
+                            await Navigator.pushReplacementNamed(
                               context,
                               LoginScreen.routName,
                             );
