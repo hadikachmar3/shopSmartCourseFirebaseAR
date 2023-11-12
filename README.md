@@ -1,4 +1,6 @@
 # Flutter 3.10 & Firebase: Building an E-commerce & Admin App - Updated on 21/09/2023
+The `admin_app` branch can be found under [this branch](https://github.com/hadikachmar3/shopSmartCourseFirebaseAR/tree/admin_app).
+
 <!-- added on 13/07/2023 ---> 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Flutter3.10-E-Commerce_Course&label=People%20who%20visited%20this%20page&countColor=%23263759)  <br> <br>
 
@@ -11,6 +13,7 @@
 
 ## 📱 Try the App on the PlayStore
 Great news! You can now download and test the app through [this Google Play Store link](https://play.google.com/store/apps/details?id=com.hadik3.spring_store&hl=en&gl=US).
+
 
 ![shopSmart logo](https://img-c.udemycdn.com/course/200_H/5246870_67ad_4.jpg)
 
