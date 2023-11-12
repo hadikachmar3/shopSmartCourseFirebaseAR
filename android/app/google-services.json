@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "479220042931",
+    "project_id": "shopsmartar-a474f",
+    "storage_bucket": "shopsmartar-a474f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479220042931:android:1991fde63de94c1d3df4c6",
+        "android_client_info": {
+          "package_name": "com.example.shopsmart_admin_ar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479220042931-oubp7lll12muvh74v6m9uh14c4pgss7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVMdfDnag8OTPG1LNNbY6-5becXhQpbJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479220042931-oubp7lll12muvh74v6m9uh14c4pgss7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479220042931:android:068f9a0a0be0e3993df4c6",
+        "android_client_info": {
+          "package_name": "com.example.shopsmart_users_ar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479220042931-6qctr6jea5mn5batqh01b9qlevhnnk0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopsmart_users_ar",
+            "certificate_hash": "c17e418611591ddce04903fa92efd5bbf60a6c68"
+          }
+        },
+        {
+          "client_id": "479220042931-oubp7lll12muvh74v6m9uh14c4pgss7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVMdfDnag8OTPG1LNNbY6-5becXhQpbJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479220042931-oubp7lll12muvh74v6m9uh14c4pgss7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
