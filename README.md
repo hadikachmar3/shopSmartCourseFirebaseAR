@@ -1,5 +1,5 @@
 # Flutter 3.10 & Firebase: Building an E-commerce & Admin App - Updated on 21/09/2023
-The `admin_app` branch can be found under [this branch](https://github.com/hadikachmar3/shopSmartCourseFirebaseAR/tree/admin_app).
+The `admin_app` branch can be found under [this branch](https://github.com/hadikachmar3/shopSmartCourseFirebaseAR/tree/admin_app).<br>
 يمكن العثور على فرع `admin_app` تحت [هذا الفرع](https://github.com/hadikachmar3/shopSmartCourseFirebaseAR/tree/admin_app).
 
 <!-- added on 13/07/2023 ---> 
